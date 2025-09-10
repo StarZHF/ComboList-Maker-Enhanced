@@ -1,0 +1,10 @@
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\bin\Debug\ComboList Maker.exe.config
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\bin\Debug\ComboList Maker.exe
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\bin\Debug\ComboList Maker.pdb
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList_Maker.frmMain.resources
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList_Maker.Properties.Resources.resources
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList Maker.csproj.GenerateResource.cache
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList Maker.csproj.CoreCompileInputs.cache
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList Maker.exe
+C:\Users\starz\source\repos\ComboList Maker\ComboList Maker\obj\Debug\ComboList Maker.pdb
